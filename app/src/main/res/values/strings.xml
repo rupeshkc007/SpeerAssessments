@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpeerAssessment</string>
+    <string name="search_user">Type To Search User</string>
+    <string name="no_results">No Results</string>
+    <string name="top_results">Top Results</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
+    <string name="et_error_msg">This field can not be blank</string>
+</resources>
